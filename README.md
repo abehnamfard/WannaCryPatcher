@@ -1,5 +1,5 @@
 # WannaCryPatcher
 
-protect your system from WannaCry (aka wcry)
+Protect your system against WannaCry (aka wcry).
 
-this is work on windows 8 or later
+This works on Windows 8 or later.
