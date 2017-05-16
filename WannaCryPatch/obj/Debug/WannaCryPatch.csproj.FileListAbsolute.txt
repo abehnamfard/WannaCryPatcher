@@ -1,0 +1,8 @@
+C:\Users\Behnamfard\Desktop\WannaCryPatch\WannaCryPatch\bin\Debug\WannaCryPatch.exe
+C:\Users\Behnamfard\Desktop\WannaCryPatch\WannaCryPatch\bin\Debug\WannaCryPatch.pdb
+C:\Users\Behnamfard\Desktop\WannaCryPatch\WannaCryPatch\obj\Debug\WannaCryPatch.FrmMain.resources
+C:\Users\Behnamfard\Desktop\WannaCryPatch\WannaCryPatch\obj\Debug\WannaCryPatch.Properties.Resources.resources
+C:\Users\Behnamfard\Desktop\WannaCryPatch\WannaCryPatch\obj\Debug\WannaCryPatch.csproj.GenerateResource.Cache
+C:\Users\Behnamfard\Desktop\WannaCryPatch\WannaCryPatch\obj\Debug\WannaCryPatch.exe
+C:\Users\Behnamfard\Desktop\WannaCryPatch\WannaCryPatch\obj\Debug\WannaCryPatch.pdb
+C:\Users\Behnamfard\Desktop\WannaCryPatch\WannaCryPatch\obj\Debug\WannaCryPatch.csprojResolveAssemblyReference.cache
